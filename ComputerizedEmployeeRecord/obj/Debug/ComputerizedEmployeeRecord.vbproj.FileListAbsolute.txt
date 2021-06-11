@@ -1,0 +1,36 @@
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmview.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmAdd.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmAdd2.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmDelete.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmMain.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.Resources.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.vbproj.GenerateResource.Cache
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\bin\Debug\ComputerizedEmployeeRecord.exe
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\bin\Debug\ComputerizedEmployeeRecord.pdb
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\bin\Debug\ComputerizedEmployeeRecord.xml
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.exe
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.xml
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.pdb
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmStaff.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.AboutBox1.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.LoginForm1.resources
+C:\Users\Dir. FMARD EBONYI\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.SplashScreen1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\bin\Debug\ComputerizedEmployeeRecord.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\bin\Debug\ComputerizedEmployeeRecord.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\bin\Debug\ComputerizedEmployeeRecord.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.AboutBox1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmAdd.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmAdd2.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmDelete.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmMain.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmStaff.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.LoginForm1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.frmview.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.SplashScreen1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\ComputerizedEmployeeRecord\obj\Debug\ComputerizedEmployeeRecord.vbproj.GenerateResource.Cache
